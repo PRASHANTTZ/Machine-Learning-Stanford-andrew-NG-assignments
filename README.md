@@ -1,5 +1,5 @@
 These are the programming assignments from Coursera's Machine Learning course taught by Andrew Ng.
-
+Check ex*.pdf to know more about particular assignment
 Includes:
 - Linear Regression (one variable and multiple variables)\
 - Logistic Regression\
